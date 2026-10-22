@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="400" viewBox="0 0 1280 400">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0.55" y2="1">
+      <stop offset="0" stop-color="#0F221B"/>
+      <stop offset="1" stop-color="#0A1913"/>
+    </linearGradient>
+  </defs>
+  <rect width="1280" height="400" fill="url(#paper)"/>
+  <rect x="0.75" y="0.75" width="1278.5" height="398.5" fill="none" stroke="#22332B" stroke-width="1.5"/>
+  <circle cx="1178" cy="200" r="172" fill="none" stroke="#1B2C25" stroke-width="1.6"/>
+  <circle cx="1178" cy="200" r="120" fill="none" stroke="#1B2C25" stroke-width="1.6"/>
+  <g transform="translate(28.00 20.56) scale(1.62)">
+  <path d="M46 176 L154 176" fill="none" stroke="#F6EEE0" stroke-width="9" stroke-linecap="round" opacity="0.75"/>
+  <path d="M144 110 C174 107 178 142 144 150" fill="none" stroke="#F6EEE0" stroke-width="11" stroke-linecap="round"/>
+  <path d="M56 100 L64 156 Q65 164 74 164 L126 164 Q135 164 136 156 L144 100 Z" fill="#F6EEE0"/>
+  <ellipse cx="100" cy="100" rx="44" ry="7" fill="#F6EEE0"/>
+  <ellipse cx="100" cy="100" rx="35" ry="4.8" fill="#B4722D"/>
+  <path d="M82 90 C72 78 88 70 78 58 C72 50 82 46 88 44" fill="none" stroke="#E09B3C" stroke-width="9" stroke-linecap="round"/>
+  <path d="M112 92 C102 80 118 72 108 60 C102 52 112 48 118 46" fill="none" stroke="#E09B3C" stroke-width="9" stroke-linecap="round" opacity="0.9"/>
+  </g>
+  <text x="352" y="186" font-family="Georgia, 'Times New Roman', serif" font-size="108"
+        fill="#F6EEE0" letter-spacing="-2.5">TokenTea</text>
+  <text x="356" y="236" font-family="'Segoe UI', -apple-system, sans-serif" font-size="28"
+        fill="#A9BDB2">A slow caf&#233; for small software.</text>
+  <path d="M356 270 L1010 270" stroke="#2A3B33" stroke-width="1.5"/>
+  <text x="357" y="308" font-family="'Segoe UI', -apple-system, sans-serif" font-size="16.5"
+        fill="#D3A165" letter-spacing="3.6">ONE AFTERNOON &#183; A FEW TOKENS &#183; ONE TINY TOOL</text>
+</svg>

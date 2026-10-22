@@ -1,305 +1,38 @@
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TokenTea/.github/main/assets/banner-dark.png">
+    <img src="https://raw.githubusercontent.com/TokenTea/.github/main/assets/banner-light.png" alt="TokenTea — a slow café for small software" width="100%">
+  </picture>
+</p>
 
-# 🍵 TokenTea
+**TokenTea** is a small kitchen for small software. There is a free afternoon and a few million tokens going spare, so a CLI that shouldn't exist gets written, a ten-minute chore becomes a script, and a model gets wired to something it has no business being wired to.
 
-### `AI` · `Code` · `Curiosity` · `Tea`
+Nothing here is a startup. Everything here is an excuse to make something.
 
-**A tiny place where tokens get brewed.**
+> 没事烧点 token，写个小工具。
+> 程序员的下午茶，慢慢泡。
 
+### What gets brewed
+
+- **Small tools** — CLIs, scripts, browser toys. Built in an afternoon, used for years.
+- **AI experiments** — agents, prompts, and models pointed at problems nobody asked about.
+- **Notes** — what worked, what broke, and the one line that fixed it.
+
+### House rules
+
+1. **Small beats big.** If it needs a roadmap, it is too big for a Tuesday.
+2. **Ship the weird one.** Normal ideas already have maintainers.
+3. **Leave the recipe.** Every tool gets a README worth reading.
+
+### On the stove
+
+The pot is still warming up, and the first projects are steeping.
+Watch this org, or [tell us what to brew](https://github.com/TokenTea/.github/issues).
+
+<p align="center">
+  <a href="https://github.com/TokenTea?tab=repositories"><b>Browse the repositories →</b></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-BREWING-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MODE-EXPERIMENTAL-EC4899?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/TEA-READY-F59E0B?style=for-the-badge" />
-</p>
-
----
-
-<table align="center">
-<tr>
-
-<td align="center" width="25%">
-
-### 🧠
-
-**THINK**
-
-Ideas
-Models
-Agents
-
-</td>
-
-<td align="center" width="25%">
-
-### 🧪
-
-**BREW**
-
-Experiments
-Prototypes
-Odd ideas
-
-</td>
-
-<td align="center" width="25%">
-
-### 🛠️
-
-**BUILD**
-
-Tools
-Libraries
-Infrastructure
-
-</td>
-
-<td align="center" width="25%">
-
-### 🍵
-
-**SIP**
-
-Review
-Refactor
-Repeat
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">🫖 What's Brewing?</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/🤖_AI-Experiments-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/🧠_Agents-Things-6366F1?style=flat-square" />
-<img src="https://img.shields.io/badge/🔎_Search-Exploration-0891B2?style=flat-square" />
-<img src="https://img.shields.io/badge/⚙️_Tools-Useful-ish-059669?style=flat-square" />
-<img src="https://img.shields.io/badge/🧪_Experiments-Probably-F59E0B?style=flat-square" />
-
-</p>
-
-<br />
-
-```text
-                    🍵 TOKENTEA
-
-        ┌──────────────────────────────┐
-        │                              │
-        │          IDEA                │
-        │            ↓                 │
-        │         PROMPT               │
-        │            ↓                 │
-        │          MODEL               │
-        │            ↓                 │
-        │         "huh?"               │
-        │            ↓                 │
-        │        EXPERIMENT             │
-        │            ↓                 │
-        │          SHIP                │
-        │            ↓                 │
-        │           🍵                  │
-        │                              │
-        └──────────────────────────────┘
-
-              repeat until interesting
-```
-
----
-
-<h2 align="center">🧋 The Tea Shelf</h2>
-
-<table align="center">
-<tr>
-
-<td align="center" width="33%">
-
-### 🤖 AI
-
-Models
-Agents
-Prompts
-Inference
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧰 Tools
-
-CLI
-Libraries
-Automation
-Infrastructure
-
-</td>
-
-<td align="center" width="33%">
-
-### 🧪 Experiments
-
-Prototypes
-Side projects
-Rabbit holes
-Bad ideas
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">📡 Tea Status</h2>
-
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/TokenTea?style=for-the-badge&label=Followers" />
-<img src="https://img.shields.io/github/stars/TokenTea?style=for-the-badge&label=Stars" />
-<img src="https://img.shields.io/github/repos/TokenTea?style=for-the-badge&label=Repositories" />
-
-</p>
-
-<p align="center">
-  <sub>Live-ish. Powered by GitHub. No AI was harmed.</sub>
-</p>
-
----
-
-<h2 align="center">🌱 Philosophy</h2>
-
-<table align="center">
-<tr>
-
-<td align="center">
-
-**01**
-
-### Keep it small.
-
-Don't build a spaceship
-when a bicycle works.
-
-</td>
-
-<td align="center">
-
-**02**
-
-### Keep it weird.
-
-Normal is already
-well populated.
-
-</td>
-
-<td align="center">
-
-**03**
-
-### Ship it.
-
-Perfect is suspicious.
-
-</td>
-
-</tr>
-</table>
-
----
-
-<h2 align="center">🍵 Brewing Process</h2>
-
-<p align="center">
-
-`💡 IDEA`
-
- → 
-
-`🧠 THINK`
-
- → 
-
-`🤖 AI`
-
- → 
-
-`🧪 EXPERIMENT`
-
- → 
-
-`🛠️ BUILD`
-
- → 
-
-`🚀 SHIP`
-
- → 
-
-`🍵 TEA`
-
-</p>
-
-<p align="center">
-  <sub>
-    Sometimes it becomes a project.<br />
-    Sometimes it becomes a lesson.<br />
-    Sometimes it becomes another cup of tea.
-  </sub>
-</p>
-
----
-
-<h2 align="center">🪴 Currently</h2>
-
-<p align="center">
-
-```text
-AI        ███████████████░░░  brewing
-Ideas     █████████████████░  overflowing
-Coffee    ██████████████████  unnecessary
-Tea       ██████████████████  READY
-Sleep     ███░░░░░░░░░░░░░░░  optional
-```
-
-</p>
-
----
-
-<p align="center">
-
-### 🍵 Welcome to the teapot.
-
-**Take a look around.**
-
-Maybe you'll find something useful.
-
-Maybe you'll find something weird.
-
-Maybe both.
-
-</p>
-
-<br />
-
-<p align="center">
-  <a href="https://github.com/TokenTea?tab=repositories">
-    <img
-      src="https://img.shields.io/badge/🍵_Browse_the_Tea_Shelf-7C3AED?style=for-the-badge"
-      alt="Browse TokenTea repositories"
-    />
-  </a>
-</p>
-
-<br />
-
-<p align="center">
-
-`steep ideas` · `brew tokens` · `ship things`
-
+  <sub><code>steep ideas</code> · <code>brew tokens</code> · <code>ship small</code></sub>
 </p>
