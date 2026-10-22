@@ -18,7 +18,7 @@
   <circle cx="512" cy="512" r="512" fill="url(#bg)"/>
   <circle cx="512" cy="410" r="520" fill="url(#glow)"/>
 
-  <g transform="translate(172 124) scale(3.4)">
+  <g transform="translate(86 83) scale(3.8)">
     <!-- saucer line -->
     <path d="M42 180 L158 180" fill="none" stroke="#F7EFE0" stroke-width="8" stroke-linecap="round" opacity="0.9"/>
     <!-- handle -->
